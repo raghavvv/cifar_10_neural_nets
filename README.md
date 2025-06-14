@@ -35,7 +35,7 @@ pip install tensorflow numpy matplotlib scikit-learn
 
 ## Usage
 
-1. Open and run the notebook `ecs7026p-ec24233-nn-dl-cifar.ipynb` in Jupyter or VS Code.
+1. Open and run the notebook `nn-dl-cifar.ipynb(4)` in Jupyter or VS Code.
 2. The notebook will:
     - Load and preprocess CIFAR-10 data.
     - Build and train a custom CNN model.
